@@ -1,0 +1,392 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"pass",
+				"passenger_apache2"
+			],
+			[
+				"parent",
+				"parent_product_id"
+			],
+			[
+				"pro",
+				"product_or_sku"
+			],
+			[
+				"key",
+				"key_parts"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ul",
+				"ul-container"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Info.plist",
+			"settings":
+			{
+				"buffer_size": 723,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Code/__init__.py",
+			"settings":
+			{
+				"buffer_size": 2937,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/products/__init__.py",
+		"/Users/dsryan/Dropbox/projects/product_manager/db/migrate/20130614205731_add_color_to_products.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/Gemfile",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/assets/javascripts/products.js",
+		"/Users/dsryan/Dropbox/projects/product_manager/config/routes.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/controllers/admin/products_controller.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/controllers/products_controller.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/admin/products/show.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/models/sku.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/products/show.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/helpers/products_helper.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/db/seeds.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/db/migrate/20130706001048_create_skus.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/Vagrantfile",
+		"/Users/dsryan/Dropbox/projects/product_manager/chef-cookbooks/pat_products/templates/default/web_app.conf.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/chef-cookbooks/pat_products/recipes/default.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/layouts/search_bar.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/chef-cookbooks/pat_products/metadata.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/Berksfile",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/admin/products/index.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/Berksfile.lock",
+		"/Users/dsryan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/helpers/admin/products_helper.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/models/product.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/controllers/admin/login_controller.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/admin/login/index.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/admin/products/_product.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/admin/products/index.erb.html",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/layouts/admin.erb.html",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/layouts/application.erb.html",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/products/show.erb.html",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/products/index.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/admin/index.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/products/admin/product.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/products/_product.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/layouts/application.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/db/sku_export_0614_rfid.csv",
+		"/Users/dsryan/Dropbox/projects/product_manager/reader/rfid-reader.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/search/index.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/controllers/application_controller.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/db/product_export_0604.csv",
+		"/Users/dsryan/Dropbox/projects/product_manager/db/migrate/20130613233354_add_details_to_products.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/controllers/search_controller.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/app/views/product.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/models/product.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/db/migrate/20130526221952_create_products.rb",
+		"/Users/dsryan/Dropbox/projects/product_manager/views/search/index.html.erb",
+		"/Users/dsryan/Dropbox/projects/product_manager/controllers/search_controller.rb",
+		"/Users/dsryan/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/dsryan/Library/Preferences/net.elasticthreads.nv.plist",
+		"/Users/dsryan/.bash_profile",
+		"/Users/dsryan/Dropbox/bash/config/.bashDirB"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"@product."
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"zoom",
+			"sku",
+			"vide",
+			"passenger",
+			"after",
+			"server_aliases",
+			"%>  ",
+			"f_color",
+			"65px",
+			"p1",
+			"det_blt7",
+			"\\xF0",
+			"/xff",
+			"/xf",
+			"\\xF0",
+			"favicon",
+			"favic",
+			"favicon",
+			"ico",
+			"`",
+			"p.",
+			"patagonia",
+			"p.",
+			"\">",
+			"%>\n",
+			"p.",
+			"14",
+			"			$(\"#slider arrow.left\").click(function(){\n				console.log(\"LEFT!\");\n			});\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"product",
+			"@product",
+			"p.",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Info.plist",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Code/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								878,
+								878
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "plex-surf-vids.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"productsjs",
+				"app/assets/javascripts/products.js"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"routs",
+				"config/routes.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
